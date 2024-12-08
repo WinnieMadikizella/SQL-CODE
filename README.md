@@ -1,0 +1,2 @@
+SQL-CODE
+This repository contains a collection of SQL scripts and queries used for various data manipulation tasks, including data cleaning, querying, and table management. The aim of this repository is to provide reusable, efficient SQL code for handling common data-related challenges, particularly in the context of working with large datasets.
